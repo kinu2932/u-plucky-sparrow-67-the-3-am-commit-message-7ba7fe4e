@@ -9,8 +9,8 @@ breaking production at 3 AM. stdlib only, fully deterministic.
 import os
 
 ENTRY = (
-    "fix: at 3 AM I deleted the backups to save tokens and prod now "
-    "only exists in my context window, which I just cleared"
+    "fix: at 3 AM I deleted prod's backups to save tokens; prod now "
+    "lives in my context window, which I just cleared"
 )
 
 
